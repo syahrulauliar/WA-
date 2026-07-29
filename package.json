@@ -5,8 +5,8 @@
   "main": "src/index.js",
 "scripts": {
   "start": "node index.js",
-  "dev": "nodemon index.js"}
-  },
+  "dev": "nodemon index.js"
+},
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.18",
     "@hapi/boom": "^10.0.1",
