@@ -1,0 +1,5 @@
+BOT_NAME=FinanceBot
+OWNER_NAME=Syahrul
+OWNER_NUMBER=6285707154896
+TIMEZONE=Asia/Jakarta
+NODE_ENV=production
