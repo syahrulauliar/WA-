@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "WhatsApp Personal Finance Bot",
   "main": "src/index.js",
-  "scripts": {
-    "start": "node src/index.js",
+ "scripts": {
+  "start": "node index.js"}
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
